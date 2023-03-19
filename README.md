@@ -19,7 +19,7 @@ Questo processo si applica in base a determinate esigenze che costringono quindi
 [Subnetting di quattro reti](https://github.com/alicefgl/Subnetting4)
 
 DHCP:
-DHCP (Dynamic Host COnfiguration Prootcol) è un servizio che si utilizza per assegnare indirizzi IP a dei dispositivi in modo automatico. E’ possibile impostare su di esso il range di indirizzi IP che possono essere forniti, specificando un valore minimo e uno massimo. Si può impostare inoltre l’indirizzo IP del gateway (che nel caso della prova coincideva con il router) ed il DNS Server della rete. Su filius dopo aver configurato il DHCP Server è necessario abilitare il servizio su ogni dispositivo
+DHCP (Dynamic Host Configuration Protocol) è un servizio che si utilizza per assegnare indirizzi IP a dei dispositivi in modo automatico. E’ possibile impostare su di esso il range di indirizzi IP che possono essere forniti, specificando un valore minimo e uno massimo. Si può impostare inoltre l’indirizzo IP del gateway (che nel caso della prova coincideva con il router) ed il DNS Server della rete. Su filius dopo aver configurato il DHCP Server è necessario abilitare il servizio su ogni dispositivo
 che ne necessita.
 
 DNS:
