@@ -12,6 +12,7 @@ CONOSCENZE TEORICHE:
 Subnetting:
 Il subnetting è una suddivisione di una rete principale in diverse sottoreti che possono contenere un determinato numero di dispositivi ai quali corrisponde un indirizzo ip, per eseguire il calcolo del subnetting è perciò necessario definire gli intervalli delle combinazioni di indirizzi ip per ogni sottorete e la subnet mask relativa all'insieme.
 Questo processo si applica in base a determinate esigenze che costringono quindi chi struttura una rete ad abbandonare le classi di indirizzi, si avranno perciò delle configurazioni classless.
+
 [Subnetting di due reti](https://github.com/alicefgl/Subnetting)
 
 [Subnetting di quattro reti](https://github.com/alicefgl/Subnetting4)
